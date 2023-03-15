@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<ctype.h>
-int main(void)
+int main_15(void)
 
 {
 	char ch;
